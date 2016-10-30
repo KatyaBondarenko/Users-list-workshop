@@ -19,5 +19,8 @@
     "vinyl-source-stream": "^1.0.0"
   },
   "author": "Vadim Zhiltsov <vadim.zhiltsov@mail.ru>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "jquery": "^3.1.1"
+  }
 }
